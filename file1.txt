@@ -2,6 +2,6 @@ Original line 1
 Original line 2
 Original line 3
 Original line 4
-<simplebranch> edit to Original line 5
+<secondbranch> edit <simplebranch> edit to Original line 5
 Original line 6
 Original line 7
